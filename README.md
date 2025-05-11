@@ -2,8 +2,8 @@
 
 ## Primeira etapa
 
-O repositório `primeira_etapa/` contém os arquivos necessários para executar o script baseado no conjunto de dados `chicago.csv`.
-- `primeira_etapa/chicago.csv`
+O repositório `primeira_etapa/` contém os scripts do problema, elaborado no conjunto de dados `chicago.csv`. O conjunto de dados não foi disponibilizado diretamente através do github por conta do tamanho do arquivo. Portanto, ele precisa ser solicitado, baixado e inserido no diretório de execução do código para que seja possível reproduzir esse processo.
+
 - `primeira_etapa/chicago_bikeshare_pt.py`
 - `primeira_etapa/script_original/chicago_bikeshare_pt.py`
 
