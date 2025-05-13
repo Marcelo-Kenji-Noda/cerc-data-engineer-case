@@ -16,6 +16,7 @@ Observações:
 
 ### Como executar o código
 
+1. Baixe o arquivo `chicago.csv` (Para ter acesso, faça uma solicitação)
 2. Certifique-se de que o arquivo `chicago.csv` está no mesmo diretório que o script `chicago_bikeshare_pt.py`.
 3. Execute o script com o seguinte comando: `python primeira_etapa/chicago_bikeshare_pt.py`
 
